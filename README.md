@@ -14,7 +14,7 @@ chap08 : 접근제어자, 상속, MVC, Object, instance of, interface, 내부 �
 chap09 : try catch finally문, 예외처리   
 chap10 : toString, equals, clone, WrapperClass, Boxing, UnBoxing, Calendar, Singleton, Random, BigInteger, BigDecimal, Math   
 chap11 : 제네릭 클래스 <T>   
-chap12 : 컬렌션 프레임워크   
+chap12 : 컬렉션 프레임워크   
 chap13 : Thread, Runnable   
 chap14 : Stream   
 chap15 : Socket, Client, Server  
